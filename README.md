@@ -12,4 +12,4 @@ python random-steam-key.py
 ```
 or double clicking the .py file to generate the key. Program will print it to the user, and then ask whether or not to generate another one.
 
-###### *Created by lewando54*
+*Created by lewando54*
